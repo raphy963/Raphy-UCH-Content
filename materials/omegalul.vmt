@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"materials/uch/omegalul"
+	"$basetexture"	"uch/omegalul"
 	"$translucent" "1"
 	"$ignorez" "1"
 	"$vertexcolor" "1"
