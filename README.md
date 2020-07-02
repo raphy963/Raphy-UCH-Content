@@ -1,3 +1,4 @@
+⚠️ **Commits messages may contain swears or inappropriate language as they were not intended to be seen by anyone else but me. Please keep that in mind** ⚠️
 # Raphy's UCH Content
 This is the content that was hosted on my Ultimate Chimera Hunt server back in 2014-2017
 
